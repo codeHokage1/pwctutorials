@@ -1,3 +1,3 @@
-## JavaScript and React Sessions
+## JavaScript and React + C# and .NET
 
-Examples and tasks done in the JavaScript and React sessions
+All examples, exercises and tasks
