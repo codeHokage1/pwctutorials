@@ -37,16 +37,21 @@
                     <option value="zaria">Zaria</option>
                 </select> <br><br>
                 <label for="gender">Gender:</label> <br>
-                <input type="radio" name="" id="male" value="male"> Male <br>
-                <input type="radio" name="" id="female" value="female"> Female <br><br>
+                <input type="radio" name="gender" id="male" value="male"> Male <br>
+                <input type="radio" name="gender" id="female" value="female"> Female <br><br>
                 <label for="courses">Course Of Interest:</label> <br>
-                <input type="checkbox" name="" id="" value="csharp"> C# <br>
-                <input type="checkbox" name="" id="" value="javascript"> JavaScript <br>
-                <input type="checkbox" name="" id="" value="dspython"> Data Science, with Python <br>
-                <input type="checkbox" name="" id="" value="agile"> Agile
+                <input type="checkbox" name="courses" id="" value="csharp"> C# <br>
+                <input type="checkbox" name="courses" id="" value="javascript"> JavaScript <br>
+                <input type="checkbox" name="courses" id="" value="dspython"> Data Science, with Python <br>
+                <input type="checkbox" name="courses" id="" value="agile"> Agile
                 <br><br>
-                <button> Submit </button>
+                <button id="submit"> Submit </button>
             </form>
+            <div id="message"></div>
         </div>
+
+        <div id="info-submitted"></div>
+
+        <script src="./script.js"></script>
     </body>
 </html>

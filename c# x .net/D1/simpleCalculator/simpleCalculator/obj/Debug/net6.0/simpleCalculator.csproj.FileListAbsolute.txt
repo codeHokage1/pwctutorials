@@ -1,0 +1,15 @@
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.exe
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.deps.json
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.runtimeconfig.json
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.dll
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.pdb
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfo.cs
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.dll
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\refint\simpleCalculator.dll
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.pdb
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.genruntimeconfig.cache
+C:\Users\Farhan\Desktop\pwctutorials\c# x .net\simpleCalculator\simpleCalculator\obj\Debug\net6.0\ref\simpleCalculator.dll
