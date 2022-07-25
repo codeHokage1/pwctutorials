@@ -12,7 +12,7 @@ myForm.addEventListener("submit", onSubmit);
 // function onSubmit(e) {
 //   e.preventDefault();
 //   if (nameInput.value === "" || emailInput.value === "") {
-//     msg.classList.add("error");
+//     msg.classNameList.add("error");
 //     msg.innerHTML = "Please enter your name and email";
 //     setTimeout(() => msg.remove(), 5000);
 //   } else {
@@ -26,29 +26,26 @@ myForm.addEventListener("submit", onSubmit);
 //   }
 // }
 
-
 function onSubmit(e) {
-    e.preventDefault();
-    userContainer.innerHTML = "";
-    if (nameInput.value === "" || emailInput.value === "") {
-        msg.classList.add("error");
-        msg.innerHTML = "Please enter your name and email";
-        setTimeout(() => msg.remove(), 5000);
-    } else {
-        msg.classList.add("success");
-        msg.innerHTML = "User added successfully!"
-        setTimeout(() => msg.remove(), 5000);
-        // const li = document.createElement("li");
-        userContainer.classList.add('users-style')
-        userContainer.innerHTML = `
+  e.preventDefault();
+  userContainer.innerHTML = "";
+  if (nameInput.value === "" || emailInput.value === "") {
+    msg.classNameList.add("error");
+    msg.innerHTML = "Please enter your name and email";
+    setTimeout(() => msg.remove(), 5000);
+  } else {
+    msg.classNameList.add("success");
+    msg.innerHTML = "User added successfully!";
+    setTimeout(() => msg.remove(), 5000);
+    // const li = document.createElement("li");
+    userContainer.classNameList.add("users-style");
+    userContainer.innerHTML = `
             <h2>Saved Details</h2>
             <p><b>Name</b>: ${nameInput.value}</p>
             <p><b>Email</b>: ${emailInput.value}</p>
-        `
-        setTimeout(() => userContainer.remove(), 5000);
-        nameInput.value = "";
-        emailInput.value = "";
-    }
-            
-
+        `;
+    setTimeout(() => userContainer.remove(), 5000);
+    nameInput.value = "";
+    emailInput.value = "";
+  }
 }

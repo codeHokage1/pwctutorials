@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstClass\\firstClass\\firstClass.csproj": {}
+    "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstclassName\\firstclassName\\firstclassName.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstClass\\firstClass\\firstClass.csproj": {
+    "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstclassName\\firstclassName\\firstclassName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstClass\\firstClass\\firstClass.csproj",
-        "projectName": "firstClass",
-        "projectPath": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstClass\\firstClass\\firstClass.csproj",
+        "projectUniqueName": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstclassName\\firstclassName\\firstclassName.csproj",
+        "projectName": "firstclassName",
+        "projectPath": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstclassName\\firstclassName\\firstclassName.csproj",
         "packagesPath": "C:\\Users\\Farhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstClass\\firstClass\\obj\\",
+        "outputPath": "C:\\Users\\Farhan\\Desktop\\pwctutorials\\c# x .net\\firstclassName\\firstclassName\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

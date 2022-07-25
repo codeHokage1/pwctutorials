@@ -20,7 +20,7 @@ DateTime myBirthday = Convert.ToDateTime("01/12/1800");
 
 // Menu Task
 /* Console.WriteLine("Welcome to PWC Bootcamp!\n");
-Console.WriteLine("Choose option:\n1. Get class address\n2. Get courses for track\n");
+Console.WriteLine("Choose option:\n1. Get className address\n2. Get courses for track\n");
 int firstOption = int.Parse(Console.ReadLine());
 switch (firstOption)
 {
